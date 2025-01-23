@@ -1,0 +1,10 @@
+{
+  "id": "imagen-selector",
+  "name": "Imagen Selector",
+  "version": "1.0.0",
+  "minAppVersion": "0.12.0",
+  "description": "Selecciona imágenes de Google y las inserta en la posición del cursor.",
+  "author": "Roberto Hernando",
+  "authorUrl": "https://www.rhernando.net",
+  "isDesktopOnly": true
+}
